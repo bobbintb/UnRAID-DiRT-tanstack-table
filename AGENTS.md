@@ -108,7 +108,7 @@ This project uses Tanstack Table v8.21.3. Before implementing new features or cu
 
     - **Library**: Tanstack Table v8.21.3
 
-    - **Documentation**: [https://tanstack.com/table/latest "null")
+    - **Documentation**: [https://tanstack.com/table/latest](https://tanstack.com/table/latest "null")
 
 
 ### Running Tests (Playwright)
