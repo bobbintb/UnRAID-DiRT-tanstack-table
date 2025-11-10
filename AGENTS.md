@@ -104,7 +104,7 @@ The frontend for this Unraid plugin consists of `.page` files, which are `php` f
 
 This project uses Tanstack Table v8.21.3. Before implementing new features or customizations, **you must** consult the official documentation to see if a built-in solution exists. This is to avoid complication as well as wasted time and effort custom coding functions or features that are already natively handled by the Tanstack Table library.
 
-- **`dirt-tanstack.page`**:
+- **`dirt-tables.page`**:
 
     - **Library**: Tanstack Table v8.21.3
 
